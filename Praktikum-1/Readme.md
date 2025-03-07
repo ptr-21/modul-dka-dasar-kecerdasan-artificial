@@ -9,4 +9,4 @@ Python adalah high-level programming language yang populer karena penulisan sint
 [Untuk Installasi Python Windows bisa di klik disini](https://www.python.org/downloads/windows/)  
 
 Setelah Install dan selesai teman teman bisa klik file downloadnya lalu klik Install Now pada gambar dibawah ini  
-!(1.png)
+![](1.png)
